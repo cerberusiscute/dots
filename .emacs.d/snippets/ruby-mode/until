@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: until
+# key: until
+# binding: direct-keybinding
+# --
+until $0
+\t$1
+end

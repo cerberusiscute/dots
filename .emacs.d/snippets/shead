@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: shead
+# key: shead
+# binding: direct-keybinding
+# expand-env: ((some-var some-value))
+# type: command
+# --
+
+\# ***Section: ${0:section name}***
+
+$1

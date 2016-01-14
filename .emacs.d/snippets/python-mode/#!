@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: #!
+# key: #!
+# binding: direct-keybinding
+# --
+#!/user/bin/env python3

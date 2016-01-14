@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: python for
+# key: pyfor
+# binding: direct-keybinding
+# --
+
+for $1 in $2
+	$3
+$4

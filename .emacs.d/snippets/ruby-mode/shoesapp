@@ -1,0 +1,19 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: shoesapp
+# key: shapp
+# binding: direct-keybinding
+# --
+
+=begin
+Program: $1
+Author: Mark Bailey
+Function: $2
+Date of Creation: $3
+Date of Last Edit: $4
+=end
+
+Shoes.app :width => $5, :height => $6 do
+
+		  $7
+
+end

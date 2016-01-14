@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: nhead
+# key: nhead
+# binding: direct-keybinding
+# --
+# Subject: *${1:subject}*: **${2:title}**, by ${3:author}
+## Date: ${4:date (mm/dd/yyyy)}
+
+$0

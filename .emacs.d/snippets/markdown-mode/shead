@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: shead
+# key: shead
+# binding: direct-keybinding
+# --
+
+### Section: ${1:section title}
+
+$0
